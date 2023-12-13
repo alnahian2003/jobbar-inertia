@@ -99,10 +99,6 @@ php artisan key:generate
 ```
 
 ```bash
-php artisan storage:link
-```
-
-```bash
 php artisan migrate
 ```
 

@@ -128,7 +128,7 @@ php artisan migrate:refresh
 
 ## Tech Stack
 
-**Client Side:** Laravel Blade, TailwindCSS AlpineJS
+**Client Side:** InertiaJS, TailwindCSS & AlpineJS
 
 **Server Side:** PHP, Laravel
 
